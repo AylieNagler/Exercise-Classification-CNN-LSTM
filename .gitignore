@@ -1,0 +1,11 @@
+videos/
+frames/
+features/
+models/
+ucfTrainTestlist/
+*.npy
+*.h5
+*.rar
+*.zip
+.ipynb_checkpoints/
+__pycache__/
