@@ -1,10 +1,10 @@
 DATA/videos/
 DATA/frames/
-DATA/features/
 DATA/models/
 DATA/ucfTrainTestlist/
 DATA/UCF-101
 *.npy
+!DATA/features/*.npy
 *.h5
 *.rar
 *.zip
